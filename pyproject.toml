@@ -1,1 +1,2 @@
-license = {text = "LGPL-3.0-or-later"}
+[project]
+license = "LGPL-3.0-or-later"
